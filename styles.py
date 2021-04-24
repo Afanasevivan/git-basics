@@ -1,2 +1,2 @@
-print('Serega molodec')
-print('sdfgfgsb')
+print('у лукаморья дуб зеленый')
+print('златая цепь на дубе том')
